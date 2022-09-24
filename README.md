@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Sanwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3><br>
-<img align="center" alt="Coding" width="400rem" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
+<img align="center" alt="Coding"  src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak07-sanwal&label=Profile%20views&color=0e75b6&style=flat" alt="deepak07-sanwal" /> </p>
 
