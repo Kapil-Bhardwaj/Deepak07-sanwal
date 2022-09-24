@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Sanwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img alt="banner" width="100%" src="https://wpwebtec.com/wp-content/uploads/2019/07/web-development-banner.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak07-sanwal&label=Profile%20views&color=0e75b6&style=flat" alt="deepak07-sanwal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak07-sanwal" alt="deepak07-sanwal" /></a> </p>
