@@ -1,7 +1,10 @@
+
+<div widht="100%">
 <h1 align="center">Hi 👋, I'm Deepak Sanwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3><br>
-<img align="center" alt="Coding" width="400em" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
+<img align="center" alt="Coding" width="50%" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak07-sanwal&label=Profile%20views&color=0e75b6&style=flat" alt="deepak07-sanwal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak07-sanwal" alt="deepak07-sanwal" /></a> </p>
